@@ -1,0 +1,2 @@
+TOKEN = "8044640004:AAG6QlDzTkFhZAiBWydhRtpc70rfsHdMg"
+DB_NAME = "users.db"
